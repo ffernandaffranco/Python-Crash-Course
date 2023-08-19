@@ -4,5 +4,3 @@
 # del elimina un elemento de la lista. Ej: del motorcycles[0]
 # pop() elimina el último elemento de la lista pero te sigue dejando trabajar con él
 # remove() elimina un elemento de la lista por su valor
-
-# PRUEBA PARA VER SI SE ACTUALIZA EL REPO
