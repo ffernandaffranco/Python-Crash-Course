@@ -6,8 +6,8 @@ glossary = {
     'while': 'repeats a block of code as long as certain condition is true'
 }
 
-print(f"Variables: {glossary['variable'].capitalize()}.\n")
-print(f"Strings: {glossary['string'].capitalize()}.\n")
-print(f"Lists: {glossary['list'].capitalize()}.\n")
-print(f"If statements: {glossary['if'].capitalize()}.\n")
-print(f"While loops: {glossary['while'].capitalize()}.\n")
+print(f"Variable: {glossary['variable'].capitalize()}.\n")
+print(f"String: {glossary['string'].capitalize()}.\n")
+print(f"List: {glossary['list'].capitalize()}.\n")
+print(f"If statement: {glossary['if'].capitalize()}.\n")
+print(f"While loop: {glossary['while'].capitalize()}.\n")
