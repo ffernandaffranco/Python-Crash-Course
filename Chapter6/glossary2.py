@@ -7,4 +7,4 @@ glossary = {
 }
 
 for key, value in glossary.items():
-    print(f"{key.title()}: {value.capitalize()}.")
+    print(f"{key.title()}: {value.capitalize()}.\n")

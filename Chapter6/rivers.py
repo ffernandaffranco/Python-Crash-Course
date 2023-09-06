@@ -9,7 +9,7 @@ for river, country in rivers.items():
 
 print("\nThe following rivers are included in this data set:")
 for river in rivers.keys():
-    print(f"{river.title()}.")
+    print(f"{river.title()}")
 
 print("\nThe following countries are included in this data set:")
 for country in rivers.values():
